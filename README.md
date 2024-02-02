@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flutter-todo-app.git
+   git clone https://github.com/SobirjonovM/ToDo-app.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -69,4 +69,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@sobirjonov_one](https://t.me/sobirjonov_one)
 
-Project Link: [[https://github.com/yourusername/flutter-todo-app](https://github.com/SobirjonovM/ToDo-app)https://github.com/SobirjonovM/ToDo-app)
+Project Link: [[https://github.com/yourusername/flutter-todo-app](https://github.com/SobirjonovM/ToDo-app)https://github.com/SobirjonovM/ToDo-app.git)
